@@ -18,7 +18,7 @@ import Verify from './pages/Verify'
 
 const App = () => {
   return (
-    <div className='bg-blue-100'>
+    <div className='bg-blue-50'>
       <Navbar/>
       <Searchbar/>
     <div className="px-2 sm:px-[2vw] md:px-[2vw] lg :px-[9vw] w-full">
